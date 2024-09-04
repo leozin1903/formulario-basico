@@ -1,0 +1,36 @@
+
+#vertical .container .item1{
+background-color: yellow;
+width: 33.3%;
+height: 250PX;
+display:gri;  
+float: left;  
+}
+:root{
+    --azul:#0044af;
+    --vermelho:#ff0122;
+    --yellow:#ffaf00;
+}
+#vertical .container{
+ width: 400px;
+ height: 350px;
+ /*define no formato do GRID */
+ display: grid;
+  /*define o padrao de colunas -repetir ( numero da coluna, tamanho da coluna) */
+ grid-template-columns: repeat(3,33.3%);
+  /*define o padrao de linhas -repetir ( numero da linha , tamanho da linha) */
+grid-template-rows:repeat(1,350px);
+ /*define o escapamento entre sd colunas e linhas*/
+
+
+
+}
+.item1{
+background-color:var(--yellow)    
+}
+.item2{
+background-color:var(--azul)    
+}
+.item3{
+background-color:var(--vermelho)    
+}

@@ -1,0 +1,103 @@
+.bandeira{
+width: 600px;
+height: 420px;
+border: 1px solid  black;
+display: block;
+float: left;
+margin: 10px;
+}
+.bandeira2{
+    width: 600px;
+    height: 600px;
+    border: 1px solid  black;
+    display: block;
+    float: left;
+    margin: 10px;
+    background-color: red;
+    }
+
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display:block;
+    position: absolute;
+    top:150px;
+    left:auto;
+    }
+.lisVert{
+width:100px;
+height:420px;
+position: relative;
+top: 3px;
+left: 130px;
+}
+.lisHor2{
+    width: 380px;
+    height: 110px;
+    display:block;
+    position: absolute;
+    top:270px;
+    left: 3890px;
+    }
+.lisVert2{
+width: 120px;
+height:330px;
+position: relative;
+top:138px;
+left: 230px;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.col4{
+    width: 360px;
+    height: 420px;
+    display: block;
+    float: left;
+    background-color: red;
+}
+.col5{
+    width: 240px;
+    height: 420px;
+    display: block;
+    float: left;}
+.CorAzulForte{
+    background-color: blue;
+}
+.CorBranco{
+    background-color: white;
+}
+.CorVermelho{
+    background-color: red;
+
+}
+.coramarela{
+background-color:yellow;
+}
+.corpreta{
+background-color: black;
+}
+.cororange{
+background-color: orange;    
+}
+.corverde{
+    background-color: green;
+}
+.lin3{
+width: 600px;
+height: 140px;
+display: block;
+float: left;
+}
+.bola{
+    width: 150px;
+    height: 150px;
+    display:block;
+    float: left;
+    border-radius: 100px;
+    margin-left: 225px;
+    margin-top: 135px;
+}

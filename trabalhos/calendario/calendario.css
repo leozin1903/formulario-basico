@@ -1,0 +1,38 @@
+.tabela {
+    border: 1px solid black ;
+    width: 610px;
+    height: 540px;
+}
+.linha {
+    float: left;
+    width: 600px;
+    height: 90px;
+}
+.linhacima {
+    border: 1px solid black;
+    float: left;
+    width: 600px;
+    height: 90px;
+}
+.titulo {
+    width: 650px;
+    height: 85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+}
+.dia {
+    border: 1px solid black;
+    width: 78px;
+    height: 80px;
+    vertical-align: top;
+   font-family:Luminari, fantasy
+   
+}
+.diaf {
+    border: 1px solid black;
+    width: 78px;
+    height: 80px;
+    vertical-align: top;
+    color: red;
+    font-family: Impact, fantasy;
+}

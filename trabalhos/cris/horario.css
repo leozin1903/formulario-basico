@@ -1,0 +1,39 @@
+table{
+width: 600px;
+height:300px;
+background-color: rgb(204, 196, 196);
+border: 1px solid black;    
+border-spacing: 0px;
+}
+.linha3{
+width: 600px;
+height:10px;
+border:1px solid black;
+text-align: center;    
+}
+.verde{
+    background-color: rgb(21, 212, 21);    
+}
+.roxo{
+background-color: #ad7b9d;
+}
+.azulc{
+    background-color: #84a2a0;
+}
+.azul{
+background-color: #5c93b5;    
+}
+.vermelho{
+    background-color: #bc7369;
+}
+.laranja{
+ background-color: #d6ab82;   
+}
+.linha4{
+    width: 600px;
+height:10px;
+border:1px solid black;
+text-align: center; 
+font-family: Chalkduster, fantasy;
+}
+

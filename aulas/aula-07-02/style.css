@@ -1,0 +1,48 @@
+#caixa1{
+background-color: blue;
+width: 100%;
+height: 300px;
+display: block;
+float: left;
+border: 10px solid black;
+}
+#caixa2{
+    background-color: red;
+    width: 30%;
+    height: 300px;
+    display: block;
+    float: left;
+    border: 10px solid black;
+}
+#caixa3{
+    background-color:yellow;
+    width: 70%;
+    height: 300px;
+    display: block;
+    float: left;
+    border: 10px groove black;
+    
+
+}
+#peyer1{
+    background-color: blueviolet;
+    width: 50%;
+    height: 300px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    border: 10px solid black;
+
+}
+
+div {
+    display: inline-block;
+    margin-right: 50px;
+}
+#triangulo-para-cima {
+  width: 0px; 
+  height: 0px; 
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 50px solid #5386E4;
+}

@@ -1,0 +1,40 @@
+
+#menu ul li a{
+background-color: aquamarine;
+padding: 10px;
+float: right;
+}
+#menu ul li{
+    float:right
+}
+#menu ul li a:hover{
+background-color: red;
+text-decoration: underline;
+text-decoration-color: aquamarine;
+}
+.bloco{
+    width: 50%;
+    height:200px;
+    display: block;
+    background-color: blueviolet;
+    margin-left: 2%;
+}
+.bloco img{
+    width: 45%
+}
+.bloco p{
+
+  width: 45%;  
+  margin: 5%;
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+    font-size: 30px;
+}
+.quebra{
+    clear: both;
+    margin-bottom: 30px;
+}
